@@ -1,6 +1,6 @@
 # deno.py
 ```python
-from Deno, promise_await import denopy
+from denopy import Deno, promise_await
 
 deno = Deno()
 
